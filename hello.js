@@ -6,3 +6,5 @@ console.log('123');
 console.log("rebase1");
 console.log("rebase2");
 console.log("rebase3");
+
+console.log("rebase2");
